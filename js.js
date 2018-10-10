@@ -125,7 +125,8 @@ function Target()
 	this.jQEl.css({
 		"position": "absolute",
 		"top": "0px",
-		"left": "0px"
+		"left": "0px",
+		"border": "red 1px dashed"
 	});
 
 	this.setPosition = function (pY, pX) {
