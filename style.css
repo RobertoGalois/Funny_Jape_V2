@@ -1,0 +1,13 @@
+#target
+{
+	border: red 1px dashed;
+}
+
+mark
+{
+	background-color: transparent;
+	font-weight: bold;
+	font-style: italic;
+	text-decoration: underline;
+	color: #cc6600;
+}
